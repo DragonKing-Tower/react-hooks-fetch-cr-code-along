@@ -1,38 +1,98 @@
 {
   "items": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Yogurt",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Pomegranate",
       "category": "Produce",
       "isInCart": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Lettuce",
       "category": "Produce",
       "isInCart": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "String Cheese",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Swiss Cheese",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Cookies",
+      "category": "Dessert",
+      "isInCart": false
+    },
+    {
+      "id": "c96c",
+      "name": "sdasd",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "8c8a",
+      "name": "",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "10ac",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "e277",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "9991",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "235e",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "15d1",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "6499",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "46b3",
+      "name": "sdg",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "1deb",
+      "name": "Cyril Rafalovich",
       "category": "Dessert",
       "isInCart": false
     }
